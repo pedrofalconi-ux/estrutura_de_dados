@@ -1,0 +1,212 @@
+CRONOGRAMA DE ESTUDO: ESTRUTURA DE DADOS
+=========================================
+Período: 2 meses (8 semanas)
+Objetivo: Dominar os conceitos fundamentais de estruturas de dados
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 1: FUNDAMENTOS E ARRAYS
+-------------------------------
+□ Dia 1-2: Introdução às Estruturas de Dados
+  - Conceitos básicos
+  - Tipos abstratos de dados (TAD)
+  - Complexidade de tempo e espaço (Big O)
+  
+□ Dia 3-4: Arrays (Vetores)
+  - Arrays estáticos vs dinâmicos
+  - Operações básicas (inserção, remoção, busca)
+  - Arrays multidimensionais
+  
+□ Dia 5-7: Exercícios práticos
+  - Implementação de operações em arrays
+  - Problemas de rotação de arrays
+  - Busca e ordenação simples
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 2: LISTAS LIGADAS
+-------------------------
+□ Dia 1-2: Listas Ligadas Simples
+  - Conceito e estrutura
+  - Implementação de nós
+  - Operações básicas (inserir, remover, buscar)
+  
+□ Dia 3-4: Variações de Listas Ligadas
+  - Lista duplamente ligada
+  - Lista circular
+  - Comparação com arrays
+  
+□ Dia 5-7: Exercícios práticos
+  - Implementação completa de lista ligada
+  - Reversão de listas
+  - Detecção de ciclos
+  - Merge de listas ordenadas
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 3: PILHAS E FILAS
+-------------------------
+□ Dia 1-2: Pilhas (Stacks)
+  - Conceito LIFO
+  - Implementação com arrays e listas ligadas
+  - Operações push, pop, top
+  
+□ Dia 3-4: Filas (Queues)
+  - Conceito FIFO
+  - Implementação com arrays e listas ligadas
+  - Filas circulares
+  - Deque (fila dupla)
+  
+□ Dia 5-7: Aplicações práticas
+  - Verificação de parênteses balanceados
+  - Avaliação de expressões
+  - Simulação de processos
+  - Problemas de BFS básico
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 4: REVISÃO E PROJETOS
+-----------------------------
+□ Dia 1-3: Revisão geral das semanas 1-3
+  - Resolver exercícios complexos
+  - Análise de complexidade
+  - Comparação entre estruturas
+  
+□ Dia 4-7: Projeto prático
+  - Implementar uma calculadora usando pilhas
+  - Sistema de desfazer/refazer usando pilhas
+  - Simulador de fila de atendimento
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 5: ÁRVORES BINÁRIAS
+---------------------------
+□ Dia 1-2: Conceitos básicos de árvores
+  - Terminologia (raiz, folha, altura, profundidade)
+  - Tipos de árvores
+  - Representação em memória
+  
+□ Dia 3-4: Árvores binárias
+  - Estrutura e implementação
+  - Árvores binárias de busca (BST)
+  - Operações: inserção, busca, remoção
+  
+□ Dia 5-7: Percursos em árvores
+  - Pré-ordem, em-ordem, pós-ordem
+  - Percurso em largura (BFS)
+  - Implementação iterativa e recursiva
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 6: ÁRVORES AVANÇADAS
+----------------------------
+□ Dia 1-2: Árvores balanceadas
+  - Árvores AVL
+  - Rotações simples e duplas
+  - Fator de balanceamento
+  
+□ Dia 3-4: Outras estruturas de árvore
+  - Árvores Red-Black (conceitos básicos)
+  - Heaps (min-heap, max-heap)
+  - Árvores B (introdução)
+  
+□ Dia 5-7: Aplicações práticas
+  - Priority Queue usando heap
+  - Algoritmo de Huffman
+  - Problemas de árvores
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 7: GRAFOS
+----------------
+□ Dia 1-2: Introdução aos grafos
+  - Conceitos básicos (vértices, arestas)
+  - Grafos direcionados vs não direcionados
+  - Representação: matriz de adjacência, lista de adjacência
+  
+□ Dia 3-4: Algoritmos de busca em grafos
+  - Busca em profundidade (DFS)
+  - Busca em largura (BFS)
+  - Aplicações e implementações
+  
+□ Dia 5-7: Algoritmos básicos
+  - Detecção de ciclos
+  - Componentes conectados
+  - Caminho mais curto (Dijkstra - conceitos)
+
+═══════════════════════════════════════════════════════════════════
+
+SEMANA 8: HASH TABLES E REVISÃO FINAL
+--------------------------------------
+□ Dia 1-2: Tabelas Hash
+  - Conceito e funcionamento
+  - Funções de hash
+  - Tratamento de colisões (chaining, open addressing)
+  
+□ Dia 3-4: Estruturas de dados avançadas
+  - Tries (árvores de prefixo)
+  - Union-Find (Disjoint Set)
+  - Segment Trees (conceitos básicos)
+  
+□ Dia 5-7: Revisão geral e projetos finais
+  - Resolver problemas complexos
+  - Escolher a estrutura de dados apropriada
+  - Projeto integrador usando múltiplas estruturas
+
+═══════════════════════════════════════════════════════════════════
+
+METODOLOGIA DE ESTUDO RECOMENDADA:
+===================================
+
+DIÁRIA (2-3 horas):
+- 30 min: Revisão do conteúdo anterior
+- 60-90 min: Novo conteúdo teórico
+- 60 min: Exercícios práticos e implementação
+
+SEMANAL:
+- Implementar todas as estruturas estudadas
+- Resolver pelo menos 5 exercícios práticos
+- Fazer comparações de performance
+
+RECURSOS RECOMENDADOS:
+======================
+□ Livros:
+  - "Estruturas de Dados e Algoritmos" - Cormen
+  - "Data Structures and Algorithms" - Sedgewick
+  
+□ Plataformas de exercícios:
+  - LeetCode
+  - HackerRank
+  - Codeforces
+  - URI Online Judge
+  
+□ Visualizadores:
+  - VisuAlgo.net
+  - Data Structure Visualizations (USF)
+
+AVALIAÇÃO DE PROGRESSO:
+=======================
+□ Semana 2: Quiz sobre arrays e listas
+□ Semana 4: Projeto com pilhas e filas
+□ Semana 6: Implementação completa de BST
+□ Semana 8: Projeto final integrando múltiplas estruturas
+
+DICAS IMPORTANTES:
+==================
+✓ Implemente todas as estruturas do zero
+✓ Pratique análise de complexidade constantemente
+✓ Desenhe as estruturas para melhor compreensão
+✓ Teste todas as implementações com casos extremos
+✓ Mantenha um caderno de anotações com resumos
+✓ Participe de fóruns e grupos de estudo
+✓ Não pule a parte teórica
+✓ Relacione as estruturas com problemas do mundo real
+
+CRONOGRAMA FLEXÍVEL:
+===================
+- Se estiver com dificuldade em algum tópico, dedique mais tempo
+- Os fins de semana podem ser usados para reforço
+- Mantenha consistência diária, mesmo que por menos tempo
+- Adapte conforme seu ritmo de aprendizagem
+
+Sucesso nos estudos! 🚀📚
